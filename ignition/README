@@ -1,0 +1,17 @@
+# psu2_axiomtek.sh
+==============================
+ Smart Ignition Management
+==============================
+ a. The current setting
+ b. Ignition Management
+ c. Advanced Settings
+ d. Save Setting (Saves changes as the custom default)
+ e. Restore Default Setting
+ x. Exit
+==============================
+  FW Version:          V101
+  Ignition Management: Disabled
+  Auto Power On:       Disabled
+  Vin Voltage:         24.8(V)
+  IGN Signal:          Off
+choice item:
