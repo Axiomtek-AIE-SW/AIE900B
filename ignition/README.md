@@ -8,7 +8,7 @@ Brief information about the current settings will be displayed at the bottom of 
  - **Auto Power On:** Enabled or Disabled
  - **Vin Voltage:** Current Vin Voltage
  - **IGN Signal:** Current Ignition Signal (On or OFF)  
-![image](https://github.com/user-attachments/assets/8dd6600b-ee7c-4442-b0e5-a0ea71e81006)
+![image](https://github.com/user-attachments/assets/e18bb709-e70d-4731-a33e-1fb77b77fc42)
 
 The Smart Ignition Management menu enables users to configure settings related to the vehicle ignition switch. The relevant ignition status setting values are displayed below:  
 ## a. The current setting
@@ -55,7 +55,7 @@ To exit the Smart Ignition Management main menu, select **“x”**.
 # View detailed current settings of Smart Ignition
 **Step 1.** Access the Smart Ignition Management main menu.  
 **Step 2.** Select **“a”** and press **“Enter”** to confirm. The detailed current settings of Smart Ignition will be displayed, and the system will automatically return to the main menu afterward.  
-![image](https://github.com/user-attachments/assets/9b8f3983-5bcd-462b-851c-73870781ad14)
+![image](https://github.com/user-attachments/assets/d41d9636-7ec3-42aa-9d4e-d42430ef6749)
 
 # Switch of the Smart Ignition Function
 **Step 1.** Access the Smart Ignition Management main menu.  
@@ -67,7 +67,7 @@ Select **“1”** and the system will automatically return to the main menu aft
 Select **“2”** and the system will automatically return to the main menu afterward.
 - **To exit without making changes:**  
 Select **“3”** to return directly to the main menu.  
-![image](https://github.com/user-attachments/assets/035542c6-0db8-4587-814b-74dc25201557)
+![image](https://github.com/user-attachments/assets/81460a98-032c-40f3-b831-b81272d21f38)
 
 # Auto Power On Mode Setting
 **Step 1.** Access the Smart Ignition Management main menu.  
@@ -80,7 +80,7 @@ Select **“1”** and the system will automatically return to the main menu aft
 Select **“2”** and the system will automatically return to the main menu afterward.
 - **To exit without making changes:**  
 Select **“3”** to return directly to the main menu.  
-![image](https://github.com/user-attachments/assets/e650446e-5e18-4999-bd15-d7f16baf8471)
+![image](https://github.com/user-attachments/assets/1b9636f1-e32e-43b7-88d7-c7fd8db2b830)
 
 # Power-On/Undervoltage Detection Settings
 **Step 1.** Access the Smart Ignition Management main menu.  
@@ -91,5 +91,62 @@ Select **“3”** to return directly to the main menu.
 Select **“1”** then follow the on-screen instructions to enter the desired values, and the system will automatically return to the main menu afterward.
 - **To exit without making changes:**  
 Select **“3”** to return directly to the main menu.  
-![image](https://github.com/user-attachments/assets/ffa83da2-da17-4f85-84a7-543abef0c365)
+![image](https://github.com/user-attachments/assets/a18c5725-95da-4b12-8678-931f85efbcae)
 
+# Power-On/Undervoltage Detection Setting
+**Step 1.** Access the Smart Ignition Management main menu.  
+**Step 2.** Press **“c”** and then press **“Enter”** to confirm.  
+**Step 3.** Select **“2”** to access the Power-On/Undervoltage Detection menu.  
+**Step 4.**
+- **To adjust the undervoltage shutdown delay timer:**  
+Select **“2”** then follow the on-screen instructions to enter the desired value, and the system will automatically return to the main menu afterward.
+- **To exit without making changes:**  
+Select **“3”** to return directly to the main menu.  
+![image](https://github.com/user-attachments/assets/3dabb83b-c604-49fc-be63-b379fcf452d5)
+
+# Ignition Power Delay – Power-On Delay Timer
+**Step 1.** Access the Smart Ignition Management main menu.  
+**Step 2.** Select **“c”** and press **“Enter”** to confirm.  
+**Step 3.** Select **“3”** to open the Ignition Power Delay menu.  
+**Step 4.**
+- **To configure the Power-On Delay Timer:**  
+Select **“1”** then follow the on-screen instructions to enter the desired value, and the system will automatically return to the main menu afterward.
+- **To exit without making changes:**  
+Select **“3”** to return directly to the main menu.  
+![image](https://github.com/user-attachments/assets/1871bbf5-2107-4673-ace5-165c49b8c47b)  
+![image](https://github.com/user-attachments/assets/96a560f2-8f0f-4b6b-b19b-77690af4e516)
+
+# Ignition Power Delay – Shutdown Delay Timer
+**Step 1.** Access the Smart Ignition Management main menu.  
+**Step 2.** Select **“c”** and press **“Enter”** to confirm.  
+**Step 3.** Select **“3”** to open the Ignition Power Delay menu.  
+**Step 4.**
+- **To configure the Shutdown Delay Timer:**  
+Select **“2”** then follow the on-screen instructions to enter the desired value, and the system will automatically return to the main menu afterward.
+- **To exit without making changes:**  
+Select **“3”** to return directly to the main menu.  
+![image](https://github.com/user-attachments/assets/dadf6e2c-a26a-4710-894b-a27251ee97b8)  
+![image](https://github.com/user-attachments/assets/bc7d1ff4-003a-411b-b77f-035476988d30)
+
+# Save Setting - Saves Changes as the Custom Default
+*★	Executing this option will save all the changes you made in the Smart Ignition Management menu as **custom defaults.**  
+To ensure the custom defaults are applied when the system is powered off, you must execute this option before exiting the Smart Ignition Management menu. If you do not, the current settings will be lost after power-off, and the system will revert to the last saved presets.*  
+**Step 1.** After making all desired changes, return to the Smart Ignition Management main menu.  
+**Step 2.** Select **“d”** then press **“Enter”** to confirm.  
+**Step 3.** The system will save your changes as custom defaults. **“Save Settings…[OK]”** will appear once the saving process is complete, and the system will automatically return to the main menu afterward.  
+![image](https://github.com/user-attachments/assets/523e0ebe-3506-40a6-bcac-4796a9fb4605)  
+
+# Restore Default Setting
+*★	Executing this option will immediately restore the default settings (either custom default or factory default) of Smart Ignition Management.*   
+**Step 1.** Access the Smart Ignition Management main menu.  
+**Step 2.** Select **“e”** then press **“Enter”** to confirm.  
+![image](https://github.com/user-attachments/assets/c1aa88e2-c8bd-4e81-b053-dabcd6a27872)  
+**Step 3.**
+- **To restore the custom default from EEPROM:**  
+Select **“1”**; “*Restore Custom Default…[OK]*” will appear once the process is complete, and the system will automatically return to the main menu afterward.  
+![image](https://github.com/user-attachments/assets/14c0800c-8675-43d7-be35-f8c57c136df9)  
+- **To restore the factory default from EEPROM:**   
+Select **“2”**; “*Restore Factory Default…[OK]*” will appear once the process is complete, and the system will automatically return to the main menu afterward.  
+![image](https://github.com/user-attachments/assets/638e588d-2c79-4ac3-ac32-a0bc55443dbe)
+- **To exit without making changes:**  
+Select **“3”** to return directly to the main menu.
