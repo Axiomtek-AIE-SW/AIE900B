@@ -54,12 +54,12 @@ To exit the Smart Ignition Management main menu, select **“x”**.
 
 # View detailed current settings of Smart Ignition
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Select **“a”** and press **“Enter”** to confirm. The detailed current settings of Smart Ignition will be displayed, and the system will automatically return to the main menu afterward.  
+**Step 2.** Select **“a”**. The detailed current settings of Smart Ignition will be displayed, and the system will automatically return to the main menu afterward.  
 ![image](https://github.com/user-attachments/assets/d41d9636-7ec3-42aa-9d4e-d42430ef6749)
 
 # Switch of the Smart Ignition Function
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Select **“b”** and press **“Enter”** to confirm.  
+**Step 2.** Select **“b”**.  
 **Step 3.**
 - **To enable Smart Ignition Management:**  
 Select **“1”** and the system will automatically return to the main menu afterward.
@@ -71,7 +71,7 @@ Select **“3”** to return directly to the main menu.
 
 # Auto Power On Mode Setting
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Select **“c”** and press **“Enter”** to confirm.  
+**Step 2.** Select **“c”**.  
 **Step 3.** Select **“1”** to open the Auto Power On Mode menu.  
 **Step 4.**
 - **To enable Auto Power On Mode:**  
@@ -84,7 +84,7 @@ Select **“3”** to return directly to the main menu.
 
 # Power-On/Undervoltage Detection Settings
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Select **“c”** and press **“Enter”** to confirm.  
+**Step 2.** Select **“c”**.  
 **Step 3.** Select **“2”** to open the Power-On/Undervoltage Detection menu.  
 **Step 4.**  
 - **To configure power-on and undervoltage voltage thresholds:**  
@@ -95,7 +95,7 @@ Select **“3”** to return directly to the main menu.
 
 # Power-On/Undervoltage Detection Setting
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Press **“c”** and then press **“Enter”** to confirm.  
+**Step 2.** Press **“c”**.  
 **Step 3.** Select **“2”** to access the Power-On/Undervoltage Detection menu.  
 **Step 4.**
 - **To adjust the undervoltage shutdown delay timer:**  
@@ -106,7 +106,7 @@ Select **“3”** to return directly to the main menu.
 
 # Ignition Power Delay – Power-On Delay Timer
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Select **“c”** and press **“Enter”** to confirm.  
+**Step 2.** Select **“c”**.  
 **Step 3.** Select **“3”** to open the Ignition Power Delay menu.  
 **Step 4.**
 - **To configure the Power-On Delay Timer:**  
@@ -118,7 +118,7 @@ Select **“3”** to return directly to the main menu.
 
 # Ignition Power Delay – Shutdown Delay Timer
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Select **“c”** and press **“Enter”** to confirm.  
+**Step 2.** Select **“c”**.  
 **Step 3.** Select **“3”** to open the Ignition Power Delay menu.  
 **Step 4.**
 - **To configure the Shutdown Delay Timer:**  
@@ -132,14 +132,14 @@ Select **“3”** to return directly to the main menu.
 *★	Executing this option will save all the changes you made in the Smart Ignition Management menu as **custom defaults.**  
 To ensure the custom defaults are applied when the system is powered off, you must execute this option before exiting the Smart Ignition Management menu. If you do not, the current settings will be lost after power-off, and the system will revert to the last saved presets.*  
 **Step 1.** After making all desired changes, return to the Smart Ignition Management main menu.  
-**Step 2.** Select **“d”** then press **“Enter”** to confirm.  
+**Step 2.** Select **“d”**.  
 **Step 3.** The system will save your changes as custom defaults. **“Save Settings…[OK]”** will appear once the saving process is complete, and the system will automatically return to the main menu afterward.  
 ![image](https://github.com/user-attachments/assets/523e0ebe-3506-40a6-bcac-4796a9fb4605)  
 
 # Restore Default Setting
 *★	Executing this option will immediately restore the default settings (either custom default or factory default) of Smart Ignition Management.*   
 **Step 1.** Access the Smart Ignition Management main menu.  
-**Step 2.** Select **“e”** then press **“Enter”** to confirm.  
+**Step 2.** Select **“e”**.  
 ![image](https://github.com/user-attachments/assets/c1aa88e2-c8bd-4e81-b053-dabcd6a27872)  
 **Step 3.**
 - **To restore the custom default from EEPROM:**  
